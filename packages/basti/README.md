@@ -379,7 +379,7 @@ Basti automatically adjusts the target's Security Group to allow inbound traffic
 
 ### Software
 
-Basti uses the latest Amazon Linux 2 - Kernel 5.10 AMI available at the initialization time (`basti init` command) for the bastion instance.
+Basti uses the latest Amazon Linux 2023 AMI available at the initialization time (`basti init` command) for the bastion instance.
 
 The bastion instance EBS volume is encrypted by default.
 
